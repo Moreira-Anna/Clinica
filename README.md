@@ -45,5 +45,11 @@ CREATE TABLE medico (
     telefone VARCHAR(15) NOT NULL
 );
 ```
+## Links das aplicações utilizadas no projeto
+- [NetBeans](https://netbeans.apache.org/front/main/download/index.html)
+- [PostgreSQL](https://www.postgresql.org/download/)
+- [Jaspersoft ](https://www.jaspersoft.com/products/jaspersoft-community)
+
+
 
 
